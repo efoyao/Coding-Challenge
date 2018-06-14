@@ -32,10 +32,12 @@ class TestPrimes(unittest.TestCase):
             primes.generate(-4, -100)
             primes.generate(0, -100)
 
+        # Verify invalid Values
         with self.assertRaises(TypeError):
             primes.generate("one", "two")
             primes.generate(True, False)
             primes.generate(4+5j, 2+2j)
+            primes.generate("", "")
 
 
 if __name__ == '__main__':

@@ -1,18 +1,20 @@
 from generator import Primes
 
-first_value = input("enter the first endpoint:")
-second_value = input("enter the second endpoint:")
-
 try:
-    first_value = int(first_value)
-    second_value = int(second_value)
+    first_value = int(input("enter the first endpoint:"))
+    second_value = int(input("enter the second endpoint:"))
+
 except ValueError:
     print("Please enter valid integers for the endpoints")
+    quit()
 
-if first_value < 1:
+except:
+    print("Please enter valid integers for the endpoints")
+    quit()
+
+if first_value < 1 or second_value < 1:
     print("Please enter positive numbers only")
-if second_value < 1:
-    print("Please enter positive numbers only")
+    quit()
 
 if first_value < second_value:
     starting_value, ending_value = first_value, second_value
@@ -21,6 +23,7 @@ elif first_value > second_value:
     starting_value, ending_value = second_value, first_value
 else:
     print("Please enter a valid range. The endpoints cannot be equal")
+    quit()
 
 prime_instance = Primes()
 

@@ -33,9 +33,11 @@ class Primes:
 
         if type(starting_value) != int or type(ending_value) != int:
             raise TypeError
+            quit()
 
         if starting_value < 1 or ending_value < 1 or starting_value == ending_value:
             raise ValueError
+            quit()
 
         if starting_value > ending_value:
             temp = starting_value
