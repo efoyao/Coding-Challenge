@@ -25,8 +25,13 @@ class TestPrimes(unittest.TestCase):
         result = primes.generate(7900, 7920)
         self.assertEqual(result, [7901, 7907, 7919])
 
+        # Check inverse ranges
         inverse_result = primes.generate(7900, 7920)
         self.assertEqual(inverse_result, [7901, 7907, 7919])
+
+        # Boundary Value testing
+        boundary_result = primes.generate(7901, 7919)
+        self.assertEqual(boundary_result, [7901, 7907, 7919])
 
         with self.assertRaises(ValueError):
             primes.generate(-4, -100)

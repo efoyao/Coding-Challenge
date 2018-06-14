@@ -46,7 +46,7 @@ class Primes:
 
         prime_list = []
         current_value = starting_value
-        while current_value < ending_value:
+        while current_value <= ending_value:
             if Primes.is_prime(current_value):
                 prime_list.append(current_value)
                 current_value += 1

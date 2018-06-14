@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6cf17c53-1b1e-4eca-869a-2eb27db18303" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_primes.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generator.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="generator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/generator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            <state relative-caret-position="467">
+              <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -36,8 +35,8 @@
       <file leaf-file-name="test_primes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_primes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+            <state relative-caret-position="186">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -45,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -76,9 +75,9 @@
       <list>
         <option value="$PROJECT_DIR$/PrimeNumberGenerator.py" />
         <option value="$PROJECT_DIR$/generatorTest.py" />
+        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/test_primes.py" />
         <option value="$PROJECT_DIR$/generator.py" />
-        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -122,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python tests.Unittests in test_primes.py">
     <configuration name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Coding-Challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,8 +197,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python tests.Unittests in test_primes.py" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.generator" />
         <item itemvalue="Python.generatorTest" />
       </list>
@@ -219,24 +218,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_primes_py - 2018.06.11 at 01h 44m 32s.xml">
-      <configuration name="Unittests in test_primes.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_primes_py - 2018.06.11 at 01h 51m 36s.xml">
-      <configuration name="Unittests in test_primes.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_primes_py - 2018.06.12 at 11h 18m 42s.xml">
-      <configuration name="Unittests in test_primes.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_primes_py - 2018.06.12 at 11h 30m 50s.xml">
-      <configuration name="Unittests in test_primes.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_primes_py - 2018.06.12 at 11h 31m 33s.xml">
-      <configuration name="Unittests in test_primes.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_primes_py - 2018.06.13 at 14h 28m 27s.xml">
-      <configuration name="Unittests in test_primes.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test_primes_py - 2018.06.13 at 20h 52m 17s.xml">
       <configuration name="Unittests in test_primes.py" configurationId="tests" />
     </history-entry>
@@ -247,6 +228,24 @@
       <configuration name="Unittests in test_primes.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_test_primes_py - 2018.06.13 at 21h 03m 53s.xml">
+      <configuration name="Unittests in test_primes.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_primes_py - 2018.06.13 at 21h 18m 29s.xml">
+      <configuration name="Unittests in test_primes.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_primes_py - 2018.06.13 at 21h 19m 39s.xml">
+      <configuration name="Unittests in test_primes.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_primes_py - 2018.06.13 at 21h 19m 44s.xml">
+      <configuration name="Unittests in test_primes.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_primes_py - 2018.06.13 at 21h 21m 13s.xml">
+      <configuration name="Unittests in test_primes.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_primes_py - 2018.06.13 at 21h 21m 20s.xml">
+      <configuration name="Unittests in test_primes.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_primes_py - 2018.06.13 at 21h 21m 23s.xml">
       <configuration name="Unittests in test_primes.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -338,27 +337,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generator.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        <state relative-caret-position="405">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_primes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        <state relative-caret-position="186">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="467">
+          <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
         </state>
       </provider>
     </entry>
